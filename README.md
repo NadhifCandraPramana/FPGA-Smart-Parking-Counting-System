@@ -4,5 +4,5 @@ Alat Yang dibutuhkan:
 2. Buzzer
 3. Led
 4. Dot Matrix
-Untuk File dari quartusnya saya lampirkan.
-Overall ini adalah Project yang simple yang cocok untuk latihan awal project FPGA
+Untuk File dari quartusnya saya lampirkan
+Overall ini adalah Project yang simple yang cocok untuk latihan awal project FPGA dengan penerapan sistem counter dan dotmatrix juga running text
